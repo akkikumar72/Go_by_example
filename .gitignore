@@ -1,0 +1,7 @@
+# Compiled binaries
+*
+!*.go
+!.gitignore
+!README.md
+!go.mod
+!go.sum
